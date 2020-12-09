@@ -1,0 +1,15 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=MotorContr 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=0 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                      io                                  io_type    0 "                                                               *"    0   24    1    0    1    1         
+                                   motor                               motor_type    0 "                                                               *"    1   24    1    0    0    1         
+                               Run_Brake                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                  CW_CCW                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              Start_Stop                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                   Speed                                      INT    0 "                                                            5000"    2    3    1   10    0    0         
+                          di_limitBottom                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                             di_limitTop                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                      di_tapeswitchBlack                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                     di_tapeswitchYellow                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                        di_forwardButton                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                       di_backwardButton                                     BOOL    0 "                                                            TRUE"    1    1    1    2    0    0         

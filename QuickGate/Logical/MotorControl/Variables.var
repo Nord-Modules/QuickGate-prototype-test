@@ -1,0 +1,3 @@
+VAR
+	io : io_type;
+END_VAR

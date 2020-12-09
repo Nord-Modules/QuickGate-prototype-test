@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.3.93 SP"?>
+<Objects>
+  <Object
+    Path="C:\projects\QuickGate\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132497442727272369" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132497441343416469"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132497441343706963"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132497442498910448" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132497441380593929" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132497441380404037"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132497441380503982"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132497441380583933"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132497441385485748" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132497441385278305"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132497441385379078"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132497441385475780"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132497441390051084" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132497441389921702"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132497441390011115"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132497441390051084"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132497441394524813" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132497441394454780"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132497441394484773"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132497441394514848"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\MotorControl\IEC.prg"
+    LogicalPath="MotorControl"
+    Type="Program"
+    LastWriteTime="132497442429824967" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\MotorControl\Main.st"
+    LogicalPath="MotorControl.Main.st"
+    Type="File"
+    LastWriteTime="132499953395103935"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\MotorControl\Types.typ"
+    LogicalPath="MotorControl.Types.typ"
+    Type="File"
+    LastWriteTime="132499949379564276"
+    Private="true" />
+  <Object
+    Path="C:\projects\QuickGate\Logical\MotorControl\Variables.var"
+    LogicalPath="MotorControl.Variables.var"
+    Type="File"
+    LastWriteTime="132497444545558631"
+    Private="true" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132497441429438575" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132499941776421644"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132499949379073979"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\Cpu.pkg"
+    LogicalPath="Config1.X20CP0411"
+    Type="Cpu"
+    LastWriteTime="132497441402677229" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\Cpu.sw"
+    LogicalPath="Config1.X20CP0411.Cpu.sw"
+    Type="File"
+    LastWriteTime="132497442727812058"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\Cpu.per"
+    LogicalPath="Config1.X20CP0411.Cpu.per"
+    Type="File"
+    LastWriteTime="132497441398401140"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\IoMap.iom"
+    LogicalPath="Config1.X20CP0411.IoMap.iom"
+    Type="File"
+    LastWriteTime="132499949517101940"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\PvMap.vvm"
+    LogicalPath="Config1.X20CP0411.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132497441398651029"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP0411.Connectivity"
+    Type="Package"
+    LastWriteTime="132497441399324171" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP0411.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132497441399244221" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0411.TextSystem"
+    Type="Package"
+    LastWriteTime="132497441399594012" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0411.UnitSystem"
+    Type="Package"
+    LastWriteTime="132497441399793883" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132497441401778451" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132497441400303581" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132497441400223626"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132497441400293586"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132497441401362917" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132497441400773280" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132497441400563408" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132497441400683336" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132497441401043119" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132497441400953184" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132497441401163038" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132497441401282967" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132497441401488607" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="132497441401688496" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP0411.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="132497441401688496"
+    Private="false" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP0411.mappControl"
+    Type="Package"
+    LastWriteTime="132497441401980008" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP0411.mappMotion"
+    Type="Package"
+    LastWriteTime="132497441402119888" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP0411.mappServices"
+    Type="Package"
+    LastWriteTime="132497441402259813" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP0411.mappView"
+    Type="Package"
+    LastWriteTime="132497441402391948" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\X20CP0411\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP0411.mappCockpit"
+    Type="Package"
+    LastWriteTime="132497441402597274" />
+  <Object
+    Path="C:\projects\QuickGate\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132499949379300942"
+    Private="false" />
+</Objects>

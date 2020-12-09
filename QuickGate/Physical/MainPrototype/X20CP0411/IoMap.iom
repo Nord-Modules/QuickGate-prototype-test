@@ -1,0 +1,12 @@
+VAR_CONFIG
+	::MotorContr:io.motor.Start_Stop AT %QX."X20DO6322".DigitalOutput01;
+	::MotorContr:io.motor.Run_Brake AT %QX."X20DO6322".DigitalOutput02;
+	::MotorContr:io.motor.CW_CCW AT %QX."X20DO6322".DigitalOutput03;
+	::MotorContr:io.motor.Speed AT %QW."X20AO2622".AnalogOutput01;
+	::MotorContr:io.di_tapeswitchYellow AT %IX."X20DI4371".DigitalInput01;
+	::MotorContr:io.di_tapeswitchBlack AT %IX."X20DI4371".DigitalInput02;
+	::MotorContr:io.di_forwardButton AT %IX."X20DI4371".DigitalInput03;
+	::MotorContr:io.di_backwardButton AT %IX."X20DI4371".DigitalInput04;
+	::MotorContr:io.di_limitBottom AT %IX."X20DI4371a".DigitalInput01;
+	::MotorContr:io.di_limitTop AT %IX."X20DI4371a".DigitalInput02;
+END_VAR
